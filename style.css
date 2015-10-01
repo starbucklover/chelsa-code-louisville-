@@ -1,0 +1,60 @@
+css
+
+/* Type Selectors ------------------ */
+
+body {
+text-align:center;
+  background-color:blue;
+}
+
+h1{
+font-size: 72px;
+  font-weight:bold;
+  color: red;
+}
+
+h2{
+color:#FF69B4;
+}
+
+header{
+background-color:purple;
+background-image:url('../img/D.jpg');
+}
+
+p{
+font-size:30px;
+  font-weight:bold;
+}
+
+/* Pseudo-classes ------------------ */
+
+a:link {
+  color: rgb(255,169,73);
+}
+
+a:visited {
+  color: lightblue;
+}
+
+a:hover {
+  color: forestgreen;
+}
+
+a:active {
+  color: lightcoral;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
